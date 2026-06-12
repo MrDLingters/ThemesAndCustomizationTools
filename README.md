@@ -26,3 +26,14 @@
 11. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
 
 ## CLIs
+1. [Fastfetch](https://github.com/fastfetch-cli/fastfetch) - fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
+2. [Winfetch](https://github.com/lptstr/winfetch) -  command-line system information utility written in PowerShell 5+.
+3. [Cava](https://github.com/karlstav/cava) - cross-platform Audio Visualizer.
+4. [Momoisay-rs](https://github.com/haruki-nikaidou/momoisay-rs) - Rust version of Momoisay.
+5. [rs-matrix](https://github.com/TitaniumBrain/rs-matrix) - Rust implementation of the Matrix rain effect, inspired by cmatrix and similar.
+6. [Clock-rs](https://github.com/Oughie/clock-rs) - a modern, digital clock that effortlessly runs in your terminal.
+7. [Pipes-rs](https://github.com/lhvy/pipes-rs) - an over-engineered rewrite of pipes.sh in Rust.
+8. [rbonsai](https://github.com/roberte777/rbonsai) - a port of cbonsai to rust.
+9. [Kotofetch](https://github.com/hxpe-dev/kotofetch) - small, configurable CLI tool that displays Japanese quotes in the terminal.
+10. [Yazi](https://github.com/sxyazi/yazi) - a terminal file manager written in Rust.
+11. [btop4win](https://github.com/aristocratos/btop4win#installation) - Resource monitor that shows usage and stats for processor, memory, disks, network, processes and services.
