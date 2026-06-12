@@ -13,5 +13,12 @@
 11. [Everforest](https://github.com/MrDLingters/EverforestWin11)
 
 ## Software
+1. [YASB](https://github.com/amnweb/yasb) - highly configurable status bar for Windows, written in Python, with support for many widgets, easy theming, and deep customization.
+2. [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
+3. [PowerShell 7](https://github.com/PowerShell/PowerShell) - command-line shell.
+4. [Spicetify](https://github.com/spicetify) - Command-line tool to customize the official Spotify client.
+5. [Vencord](https://github.com/Vendicated/Vencord) - Discord client mod with themes and plugins support.
+6. [Flow Launcher](https://github.com/flow-launcher/flow.launcher) - A quick file search and app launcher for Windows with community-made plugins.
+7. [Nilesoft-Shell](https://github.com/std-microblock/nilesoft-shell) - Powerful manager for Windows File Explorer context menu.
 
 ## CLIs
