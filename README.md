@@ -22,5 +22,7 @@
 7. [Nilesoft-Shell](https://github.com/std-microblock/nilesoft-shell) - Powerful manager for Windows File Explorer context menu.
 8. [Windhawk](https://github.com/ramensoftware/windhawk) - customization marketplace for Windows and programs.
 9. [Zen Browser](https://github.com/zen-browser/desktop) - Firefox-based browser with the aim of pushing your productivity to a new level
+10. [AltSnap](https://github.com/RamonUnch/AltSnap) - allows you to move and resize windows by using the Alt key and clicking wherever on the window instead of relying on very precise clicking.
+11. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
 
 ## CLIs
