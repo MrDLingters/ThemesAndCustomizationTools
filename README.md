@@ -24,6 +24,7 @@
 9. [Zen Browser](https://github.com/zen-browser/desktop) - Firefox-based browser with the aim of pushing your productivity to a new level
 10. [AltSnap](https://github.com/RamonUnch/AltSnap) - allows you to move and resize windows by using the Alt key and clicking wherever on the window instead of relying on very precise clicking.
 11. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
+12. [Helium browser](https://github.com/imputnet/helium) - a Chromium-based web browser designed to deliver privacy, speed, and simplicity by removing Google's proprietary services, telemetry, and bloat.
 
 ## CLIs
 1. [Fastfetch](https://github.com/fastfetch-cli/fastfetch) - fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
