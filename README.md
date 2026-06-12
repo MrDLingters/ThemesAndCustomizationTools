@@ -20,5 +20,7 @@
 5. [Vencord](https://github.com/Vendicated/Vencord) - Discord client mod with themes and plugins support.
 6. [Flow Launcher](https://github.com/flow-launcher/flow.launcher) - A quick file search and app launcher for Windows with community-made plugins.
 7. [Nilesoft-Shell](https://github.com/std-microblock/nilesoft-shell) - Powerful manager for Windows File Explorer context menu.
+8. [Windhawk](https://github.com/ramensoftware/windhawk) - customization marketplace for Windows and programs.
+9. [Zen Browser](https://github.com/zen-browser/desktop) - Firefox-based browser with the aim of pushing your productivity to a new level
 
 ## CLIs
