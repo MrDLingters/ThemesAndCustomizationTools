@@ -1,6 +1,8 @@
 # Themes and customization tools for Windows 11
 ## Themes
+# Working with YASB 2.0+
 - [Catppuccin V2 Macchiato](https://github.com/MrDLingters/CatppuccinV2Macchiato)
+# Working with YASB below 2.0 and Windows 11 (26100.8524)
 - [Your Lie In April](https://github.com/MrDLingters/YourLieInAprilWin11)
 - [Catppuccin](https://github.com/MrDLingters/Win11Catppuccin)
 - [Sousou no Frieren](https://github.com/MrDLingters/Sousou-no-Frieren-theme)
