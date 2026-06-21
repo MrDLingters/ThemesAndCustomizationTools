@@ -41,3 +41,7 @@
 9. [Kotofetch](https://github.com/hxpe-dev/kotofetch) - small, configurable CLI tool that displays Japanese quotes in the terminal.
 10. [Yazi](https://github.com/sxyazi/yazi) - a terminal file manager written in Rust.
 11. [btop4win](https://github.com/aristocratos/btop4win#installation) - Resource monitor that shows usage and stats for processor, memory, disks, network, processes and services.
+
+## Websites
+1. [Wallhaven](https://wallhaven.cc/) - a huge wallpapers collection.
+2. [Wallrice](https://www.wallrice.xyz/) - a small utility to colorize your wallpapers with your own color palettes.
