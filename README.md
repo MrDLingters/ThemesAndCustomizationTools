@@ -2,14 +2,14 @@
 ## Themes
 ### Working with YASB 2.0+
 - [Catppuccin V2 Macchiato](https://github.com/MrDLingters/CatppuccinV2Macchiato)
+- [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
+- [Everforest Dark Soft](https://github.com/MrDLingters/Win11EverforestDarkSoft)
+- [Monochrome V2](https://github.com/MrDLingters/Win11MonochromeV2)
 ### Working with YASB below 2.0 and Windows 11 (26100.8524)
 - [Your Lie In April](https://github.com/MrDLingters/YourLieInAprilWin11)
 - [Catppuccin](https://github.com/MrDLingters/Win11Catppuccin)
 - [Sousou no Frieren](https://github.com/MrDLingters/Sousou-no-Frieren-theme)
-- [Everforest Dark Soft](https://github.com/MrDLingters/Win11EverforestDarkSoft)
 - [Coffee Christmas](https://github.com/MrDLingters/Win11CoffeeChristmas)
-- [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
-- [Monochrome V2](https://github.com/MrDLingters/Win11MonochromeV2)
 - [Monochrome](https://github.com/MrDLingters/MonochromeWin11)
 - [Tokyo Night](https://github.com/MrDLingters/Win11TokyoNight)
 - [Everforest](https://github.com/MrDLingters/EverforestWin11)
