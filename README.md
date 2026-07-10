@@ -5,6 +5,7 @@
 - [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
 - [Everforest Dark Soft](https://github.com/MrDLingters/Win11EverforestDarkSoft)
 - [Monochrome V2](https://github.com/MrDLingters/Win11MonochromeV2)
+- [Zenless Zone Zero](https://github.com/MrDLingters/ZenlessZoneZeroWin11Theme)
 ### Working with YASB below 2.0 and Windows 11 (26100.8524)
 - [Your Lie In April](https://github.com/MrDLingters/YourLieInAprilWin11)
 - [Catppuccin](https://github.com/MrDLingters/Win11Catppuccin)
