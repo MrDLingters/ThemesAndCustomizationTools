@@ -1,6 +1,7 @@
 # Themes and customization tools for Windows 11
 ## Themes
 ### Working with YASB 2.0+
+- [Kanagawa](https://github.com/MrDLingters/KanagawaWin11)
 - [Catppuccin V2 Macchiato](https://github.com/MrDLingters/CatppuccinV2Macchiato)
 - [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
 - [Everforest Dark Soft](https://github.com/MrDLingters/Win11EverforestDarkSoft)
