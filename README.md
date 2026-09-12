@@ -21,6 +21,7 @@
 ## Stand alone YASB configs:
 - [Akira](https://github.com/MrDLingters/Akira_YASB/tree/main) - i3WM inspired minimalistic bar with several color schemes available in one CSS.
 - [Shibumi](https://github.com/MrDLingters/Shibumi_YASB/tree/main) - Hyprland inspired minimalistic bar with several color schemes available in one CSS.
+- [Okinami](https://github.com/MrDLingters/Okinami_YASB) - Minimalistic bar with waves design and several color schemes available in one CSS.
 
 ## Software
 1. [YASB](https://github.com/amnweb/yasb) - highly configurable status bar for Windows, written in Python, with support for many widgets, easy theming, and deep customization.
