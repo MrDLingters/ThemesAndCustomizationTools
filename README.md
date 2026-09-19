@@ -37,6 +37,8 @@
 11. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
 12. [Helium browser](https://github.com/imputnet/helium) - a Chromium-based web browser designed to deliver privacy, speed, and simplicity by removing Google's proprietary services, telemetry, and bloat.
 13. [Visual Studio Code](https://github.com/microsoft/vscode) - open source code editor.
+14. [Font Wizard](https://github.com/karnyadavdev/FontWizard) - Customize Windows' system font completely
+Start, Taskbar, Lockscreen, Every Menu, Every app & everywhere.
 
 ## CLIs
 1. [Fastfetch](https://github.com/fastfetch-cli/fastfetch) - fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
