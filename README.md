@@ -1,6 +1,6 @@
 # Themes and customization tools for Windows 11
 ## Themes
-### Working with YASB 2.0+
+### Working with YASB 2.0.7+
 - [Kanagawa](https://github.com/MrDLingters/KanagawaWin11)
 - [Catppuccin V2 Macchiato](https://github.com/MrDLingters/CatppuccinV2Macchiato)
 - [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
@@ -8,7 +8,7 @@
 - [Monochrome V2](https://github.com/MrDLingters/Win11MonochromeV2)
 - [Zenless Zone Zero](https://github.com/MrDLingters/ZenlessZoneZeroWin11Theme)
 - [Nord](https://github.com/MrDLingters/NordWin11)
-### Working with YASB below 2.0 and Windows 11 (26100.8524)
+### Outdated
 - [Your Lie In April](https://github.com/MrDLingters/YourLieInAprilWin11)
 - [Catppuccin](https://github.com/MrDLingters/Win11Catppuccin)
 - [Sousou no Frieren](https://github.com/MrDLingters/Sousou-no-Frieren-theme)
