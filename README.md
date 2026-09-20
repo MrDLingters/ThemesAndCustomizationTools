@@ -2,6 +2,7 @@
 ## Themes
 ### Working with YASB 2.0.7+
 - [Kanagawa](https://github.com/MrDLingters/KanagawaWin11)
+- [Katsushika Hokusai x Miku theme](https://github.com/MrDLingters/Katsushika-Hokusai-x-Miku-theme)
 - [Catppuccin V2 Macchiato](https://github.com/MrDLingters/CatppuccinV2Macchiato)
 - [Gruvbox Material](https://github.com/MrDLingters/Win11GruvboxMaterial)
 - [Everforest Dark Soft](https://github.com/MrDLingters/Win11EverforestDarkSoft)
