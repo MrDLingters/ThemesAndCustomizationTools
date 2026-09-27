@@ -28,18 +28,19 @@
 ## Software
 1. [YASB](https://github.com/amnweb/yasb) - highly configurable status bar for Windows, written in Python, with support for many widgets, easy theming, and deep customization.
 2. [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
-3. [PowerShell 7](https://github.com/PowerShell/PowerShell) - command-line shell.
-4. [Spicetify](https://github.com/spicetify) - Command-line tool to customize the official Spotify client.
-5. [Vencord](https://github.com/Vendicated/Vencord) - Discord client mod with themes and plugins support.
-6. [Flow Launcher](https://github.com/flow-launcher/flow.launcher) - A quick file search and app launcher for Windows with community-made plugins.
-7. [Nilesoft-Shell](https://github.com/std-microblock/nilesoft-shell) - Powerful manager for Windows File Explorer context menu.
-8. [Windhawk](https://github.com/ramensoftware/windhawk) - customization marketplace for Windows and programs.
-9. [Zen Browser](https://github.com/zen-browser/desktop) - Firefox-based browser with the aim of pushing your productivity to a new level
-10. [AltSnap](https://github.com/RamonUnch/AltSnap) - allows you to move and resize windows by using the Alt key and clicking wherever on the window instead of relying on very precise clicking.
-11. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
-12. [Helium browser](https://github.com/imputnet/helium) - a Chromium-based web browser designed to deliver privacy, speed, and simplicity by removing Google's proprietary services, telemetry, and bloat.
-13. [Visual Studio Code](https://github.com/microsoft/vscode) - open source code editor.
-14. [Font Wizard](https://github.com/karnyadavdev/FontWizard) - Customize Windows' system font completely
+3. [Tacky-borders](https://github.com/luke-you/tacky-borders) - tacky-borders lets you customize window borders on Windows 10 and 11.
+4. [PowerShell 7](https://github.com/PowerShell/PowerShell) - command-line shell.
+5. [Spicetify](https://github.com/spicetify) - Command-line tool to customize the official Spotify client.
+6. [Vencord](https://github.com/Vendicated/Vencord) - Discord client mod with themes and plugins support.
+7. [Flow Launcher](https://github.com/flow-launcher/flow.launcher) - A quick file search and app launcher for Windows with community-made plugins.
+8. [Nilesoft-Shell](https://github.com/std-microblock/nilesoft-shell) - Powerful manager for Windows File Explorer context menu.
+9. [Windhawk](https://github.com/ramensoftware/windhawk) - customization marketplace for Windows and programs.
+10. [Zen Browser](https://github.com/zen-browser/desktop) - Firefox-based browser with the aim of pushing your productivity to a new level
+11. [AltSnap](https://github.com/RamonUnch/AltSnap) - allows you to move and resize windows by using the Alt key and clicking wherever on the window instead of relying on very precise clicking.
+12. [THide](https://github.com/amnweb/thide) - a lightweight Windows 10/11 application to hide/show the taskbar with system tray and CLI control.
+13. [Helium browser](https://github.com/imputnet/helium) - a Chromium-based web browser designed to deliver privacy, speed, and simplicity by removing Google's proprietary services, telemetry, and bloat.
+14. [Visual Studio Code](https://github.com/microsoft/vscode) - open source code editor.
+15. [Font Wizard](https://github.com/karnyadavdev/FontWizard) - Customize Windows' system font completely
 Start, Taskbar, Lockscreen, Every Menu, Every app & everywhere.
 
 ## CLIs
